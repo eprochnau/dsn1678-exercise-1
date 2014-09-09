@@ -61,18 +61,7 @@ img {
 
 /* FLOATS */
 
-.header-1,
-.content-1 {
+.column {
 	width: 33%;
 	float: left;
-}
-
-.header-2,
-.content-2 {
-	width: 33%;
-}
-
-.header-3,
-.content-3 {
-	width: 33%;
 }
