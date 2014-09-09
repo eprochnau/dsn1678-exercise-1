@@ -30,6 +30,10 @@ img {
   width: 100%;
 }
 
+.fig {
+	postion: relative;
+}
+
 .title {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 18px;
@@ -37,6 +41,8 @@ img {
 
 .caption {
 	font-style: italic;
+	position: absolute;
+	background-color: rgba(0,0,0,1.00) transparent;	
 }
 
 /* HEADERS */
