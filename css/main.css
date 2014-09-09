@@ -21,8 +21,8 @@ html {
 }
 
 body {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 img {
@@ -32,6 +32,7 @@ img {
 
 .fig {
 	postion: relative;
+	margin: 0;
 }
 
 .title {
@@ -41,8 +42,9 @@ img {
 
 .caption {
 	font-style: italic;
+	font-color: white;
 	position: absolute;
-	background-color: rgba(0,0,0,1.00) transparent;	
+	background-color: rgba(0,0,0,.50);
 }
 
 /* HEADERS */
