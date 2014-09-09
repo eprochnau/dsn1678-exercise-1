@@ -32,9 +32,26 @@ img {
 
 .title {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 24px;
+	font-size: 18px;
 }
 
 .caption {
 	font-style: italic;
+}
+
+.header-1,
+.header-2,
+.header-3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: grey;
+	text-transform: uppercase;
+}
+
+.content-1,
+.content-2,
+.content-3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
 	
